@@ -7,4 +7,5 @@ package com.itheima.domain;
  */
 public class Student {
     private  Integer id;
+    private  Integer id1;
 }
